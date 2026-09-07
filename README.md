@@ -32,7 +32,7 @@ pip install -r requirements.txt
 jupyter notebook mini_projeto_mnist.ipynb
 ```
 
-4. Para o Desafio C, adicione suas imagens manuscritas na pasta `data/meus_digitos/` (formato PNG ou JPG, fundo branco com traço escuro).
+4. Para o Desafio C, adicione suas imagens manuscritas na pasta `data/meus_digitos/` (formato PNG ou JPG, fundo preto com traço branco — padrão MNIST; ver célula 35).
 
 ## Estrutura do Projeto
 
